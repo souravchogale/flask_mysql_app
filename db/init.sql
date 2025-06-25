@@ -7,5 +7,5 @@ CREATE TABLE IF NOT EXISTS messages (
 );
 
 INSERT INTO messages (message) VALUES
-("Hello from Sourav this!"),
+("Hello from Sourav!"),
 ("This is my Flask + MySQL + Docker Project!");
