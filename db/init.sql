@@ -8,4 +8,4 @@ CREATE TABLE IF NOT EXISTS messages (
 
 INSERT INTO messages (message) VALUES
 ("Hello from Sourav!"),
-("This is my Flask + MySQL + Docker Project!");
+("This is my Flask + MySQL + Docker Project with CI-CD Automation!");
